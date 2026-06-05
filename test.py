@@ -14,7 +14,7 @@ import os
 
 
 # Better:
-# API_KEY = os.getenv("API_KEY")
+API_KEY = os.getenv("API_KEY")
 
 
 # -----------------------------
