@@ -15,7 +15,7 @@ import os
 
 # Better:
 API_KEY = os.getenv("API_KEY")
-
+logger.info(os.environ)
 
 # -----------------------------
 # BAD PRACTICE #2: Weak password hashing
